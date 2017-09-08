@@ -458,6 +458,21 @@ input.float-input,input.float-input:focus {
 	font-size: 24px;
 }
 
+.post-nav a {
+    color: #E46085;
+}
+
+.pagination {
+    display: inline-block;
+    padding-left: 0;
+    margin: 20px 0;
+    border-radius: 4px;
+}
+
+.pagination a,.pagination span {
+	font-size: 27px;
+}
+
 ::-webkit-input-placeholder { /* WebKit, Blink, Edge */
 
 	font-size: 24px !important;
